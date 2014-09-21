@@ -1,0 +1,10 @@
+C:\Documents and Settings\User\Рабочий стол\Triangle\bin\Debug\Triangle.exe
+C:\Documents and Settings\User\Рабочий стол\Triangle\bin\Debug\Triangle.pdb
+C:\Documents and Settings\User\Рабочий стол\Triangle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\Triangle\obj\x86\Debug\Triangle.exe
+C:\Documents and Settings\User\Рабочий стол\Triangle\obj\x86\Debug\Triangle.pdb
+C:\My Work\5 КУРС\МиМ\Triangle\obj\x86\Debug\Triangle.exe
+C:\My Work\5 КУРС\МиМ\Triangle\obj\x86\Debug\Triangle.pdb
+C:\My Work\5 КУРС\МиМ\Triangle\obj\x86\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\My Work\5 КУРС\МиМ\Triangle\bin\Debug\Triangle.exe
+C:\My Work\5 КУРС\МиМ\Triangle\bin\Debug\Triangle.pdb

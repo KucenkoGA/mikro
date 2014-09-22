@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d8bbec27-53b4-44f5-9a7f-ca186aa432aa" name="Sys@BZZ 2014-09-22 00:30:55" runUser="BZZ\Sys" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="c15db5bd-b38c-4917-8fc9-53e64146086b">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Sys_BZZ 2014-09-22 00_30_55">
+      <DeploymentItem filename="C:\Users\Sys\Desktop\Учёбка\5\github\Triangle\bin\Debug\Triangle.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-09-22T00:30:55.7553314+06:00" queuing="2014-09-22T00:30:55.7703322+06:00" start="2014-09-22T00:30:55.7773326+06:00" finish="2014-09-22T00:30:56.0953508+06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod_C2" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="7c9ab7e9-482d-a066-3a5b-6caeee08ce5e">
+      <Execution id="fc5e76f7-f0f6-4f68-bfc7-a3f372c96135" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_C2" />
+    </UnitTest>
+    <UnitTest name="TestMethod_C1" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="94a25bd0-0be0-0608-99c1-74dc0719ddef">
+      <Execution id="c7f7a4bd-5fa1-4839-b1fb-4a9f5898788c" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_C1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7c9ab7e9-482d-a066-3a5b-6caeee08ce5e" executionId="fc5e76f7-f0f6-4f68-bfc7-a3f372c96135" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="94a25bd0-0be0-0608-99c1-74dc0719ddef" executionId="c7f7a4bd-5fa1-4839-b1fb-4a9f5898788c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fc5e76f7-f0f6-4f68-bfc7-a3f372c96135" testId="7c9ab7e9-482d-a066-3a5b-6caeee08ce5e" testName="TestMethod_C2" computerName="BZZ" duration="00:00:00.0269170" startTime="2014-09-22T00:30:55.7833330+06:00" endTime="2014-09-22T00:30:56.0633490+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fc5e76f7-f0f6-4f68-bfc7-a3f372c96135">
+    </UnitTestResult>
+    <UnitTestResult executionId="c7f7a4bd-5fa1-4839-b1fb-4a9f5898788c" testId="94a25bd0-0be0-0608-99c1-74dc0719ddef" testName="TestMethod_C1" computerName="BZZ" duration="00:00:00.0003229" startTime="2014-09-22T00:30:56.0673492+06:00" endTime="2014-09-22T00:30:56.0733495+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c7f7a4bd-5fa1-4839-b1fb-4a9f5898788c">
+    </UnitTestResult>
+  </Results>
+</TestRun>

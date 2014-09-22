@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="fe386239-93e4-46bf-b1e3-f77524ee1962" name="Sys@BZZ 2014-09-22 01:16:12" runUser="BZZ\Sys" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="c15db5bd-b38c-4917-8fc9-53e64146086b">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Sys_BZZ 2014-09-22 01_16_12">
+      <DeploymentItem filename="C:\Users\Sys\Desktop\Учёбка\5\github\Triangle\bin\Debug\Triangle.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-09-22T01:16:12.2157040+06:00" queuing="2014-09-22T01:16:14.4158298+06:00" start="2014-09-22T01:16:14.5288363+06:00" finish="2014-09-22T01:16:26.8445407+06:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="9" executed="2" passed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="7" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="BZZ" outcome="Error" timestamp="2014-09-22T01:16:26.8415405+06:00">
+        <Text>Неожиданный выход из тестового хост-процесса.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod_Gam1" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="ae004654-f06e-0e81-8f4f-99c6aaf4e451">
+      <Execution id="a29a6686-c2f8-4df7-8c93-d8c92783310e" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_Gam1" />
+    </UnitTest>
+    <UnitTest name="TestMethod_C1" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="94a25bd0-0be0-0608-99c1-74dc0719ddef">
+      <Execution id="57aa1b11-601f-463d-8de3-7eeaed260142" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_C1" />
+    </UnitTest>
+    <UnitTest name="TestMethod_Bet2" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="a34b33d0-38bb-55ee-1a20-6bd391ef3c10">
+      <Execution id="ba16c80c-5bd5-43a3-ad2a-2d178b54d1b8" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_Bet2" />
+    </UnitTest>
+    <UnitTest name="TestMethod_Bet1" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="3dea0c79-598c-5dae-22de-a8036e0ce632">
+      <Execution id="4c8fa874-8410-4b6d-8a93-3ab7c8668428" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_Bet1" />
+    </UnitTest>
+    <UnitTest name="TestMethod_Gam1_not" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="565bf27c-1e4b-d2b9-b79e-e44f1d70e18d">
+      <Execution id="91e9d510-71b7-4f73-9649-96baf22f06a7" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_Gam1_not" />
+    </UnitTest>
+    <UnitTest name="TestMethod_C2" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="7c9ab7e9-482d-a066-3a5b-6caeee08ce5e">
+      <Execution id="0f492fe8-1db3-4ad4-bd51-bd35e38be555" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_C2" />
+    </UnitTest>
+    <UnitTest name="TestMethod_C1_not" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="5e67210d-9dfb-cc7a-9d1c-20584349f8b4">
+      <Execution id="2cc26b8a-8345-4eed-b1c9-d2ad1433fbee" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_C1_not" />
+    </UnitTest>
+    <UnitTest name="TestMethod_Gam2" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="6683ed8b-5152-04c7-4b1f-af7f15a6e0c8">
+      <Execution id="f168230c-bcfc-4a63-8b6d-3dc4e8139507" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_Gam2" />
+    </UnitTest>
+    <UnitTest name="TestMethod_Bet1_not" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="95d05851-8e8a-9b28-3a0d-b7f43c13e3f7">
+      <Execution id="71a19b2f-c34b-4080-b15f-91500dbadf09" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_Bet1_not" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3dea0c79-598c-5dae-22de-a8036e0ce632" executionId="4c8fa874-8410-4b6d-8a93-3ab7c8668428" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="565bf27c-1e4b-d2b9-b79e-e44f1d70e18d" executionId="91e9d510-71b7-4f73-9649-96baf22f06a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5e67210d-9dfb-cc7a-9d1c-20584349f8b4" executionId="2cc26b8a-8345-4eed-b1c9-d2ad1433fbee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6683ed8b-5152-04c7-4b1f-af7f15a6e0c8" executionId="f168230c-bcfc-4a63-8b6d-3dc4e8139507" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c9ab7e9-482d-a066-3a5b-6caeee08ce5e" executionId="0f492fe8-1db3-4ad4-bd51-bd35e38be555" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="94a25bd0-0be0-0608-99c1-74dc0719ddef" executionId="57aa1b11-601f-463d-8de3-7eeaed260142" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="95d05851-8e8a-9b28-3a0d-b7f43c13e3f7" executionId="71a19b2f-c34b-4080-b15f-91500dbadf09" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a34b33d0-38bb-55ee-1a20-6bd391ef3c10" executionId="ba16c80c-5bd5-43a3-ad2a-2d178b54d1b8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae004654-f06e-0e81-8f4f-99c6aaf4e451" executionId="a29a6686-c2f8-4df7-8c93-d8c92783310e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4c8fa874-8410-4b6d-8a93-3ab7c8668428" testId="3dea0c79-598c-5dae-22de-a8036e0ce632" testName="TestMethod_Bet1" computerName="BZZ" duration="00:00:00.0329668" startTime="2014-09-22T01:16:14.6608439+06:00" endTime="2014-09-22T01:16:15.9189158+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c8fa874-8410-4b6d-8a93-3ab7c8668428">
+    </UnitTestResult>
+    <UnitTestResult executionId="91e9d510-71b7-4f73-9649-96baf22f06a7" testId="565bf27c-1e4b-d2b9-b79e-e44f1d70e18d" testName="TestMethod_Gam1_not" computerName="BZZ" duration="00:00:10.9156244" startTime="2014-09-22T01:16:15.9279163+06:00" endTime="2014-09-22T01:16:26.8435407+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="91e9d510-71b7-4f73-9649-96baf22f06a7">
+    </UnitTestResult>
+    <UnitTestResult executionId="2cc26b8a-8345-4eed-b1c9-d2ad1433fbee" testId="5e67210d-9dfb-cc7a-9d1c-20584349f8b4" testName="TestMethod_C1_not" computerName="BZZ" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2cc26b8a-8345-4eed-b1c9-d2ad1433fbee">
+    </UnitTestResult>
+    <UnitTestResult executionId="f168230c-bcfc-4a63-8b6d-3dc4e8139507" testId="6683ed8b-5152-04c7-4b1f-af7f15a6e0c8" testName="TestMethod_Gam2" computerName="BZZ" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f168230c-bcfc-4a63-8b6d-3dc4e8139507">
+    </UnitTestResult>
+    <UnitTestResult executionId="0f492fe8-1db3-4ad4-bd51-bd35e38be555" testId="7c9ab7e9-482d-a066-3a5b-6caeee08ce5e" testName="TestMethod_C2" computerName="BZZ" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0f492fe8-1db3-4ad4-bd51-bd35e38be555">
+    </UnitTestResult>
+    <UnitTestResult executionId="57aa1b11-601f-463d-8de3-7eeaed260142" testId="94a25bd0-0be0-0608-99c1-74dc0719ddef" testName="TestMethod_C1" computerName="BZZ" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="57aa1b11-601f-463d-8de3-7eeaed260142">
+    </UnitTestResult>
+    <UnitTestResult executionId="71a19b2f-c34b-4080-b15f-91500dbadf09" testId="95d05851-8e8a-9b28-3a0d-b7f43c13e3f7" testName="TestMethod_Bet1_not" computerName="BZZ" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71a19b2f-c34b-4080-b15f-91500dbadf09">
+    </UnitTestResult>
+    <UnitTestResult executionId="ba16c80c-5bd5-43a3-ad2a-2d178b54d1b8" testId="a34b33d0-38bb-55ee-1a20-6bd391ef3c10" testName="TestMethod_Bet2" computerName="BZZ" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba16c80c-5bd5-43a3-ad2a-2d178b54d1b8">
+    </UnitTestResult>
+    <UnitTestResult executionId="a29a6686-c2f8-4df7-8c93-d8c92783310e" testId="ae004654-f06e-0e81-8f4f-99c6aaf4e451" testName="TestMethod_Gam1" computerName="BZZ" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a29a6686-c2f8-4df7-8c93-d8c92783310e">
+    </UnitTestResult>
+  </Results>
+</TestRun>

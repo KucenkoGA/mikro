@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0f337617-814e-4e05-9718-f27bcaccf692" name="Sys@BZZ 2014-09-22 01:16:30" runUser="BZZ\Sys" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="c15db5bd-b38c-4917-8fc9-53e64146086b">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Sys_BZZ 2014-09-22 01_16_30">
+      <DeploymentItem filename="C:\Users\Sys\Desktop\Учёбка\5\github\Triangle\bin\Debug\Triangle.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-09-22T01:16:30.7987669+06:00" queuing="2014-09-22T01:16:31.2877949+06:00" start="2014-09-22T01:16:31.3587989+06:00" finish="2014-09-22T01:16:31.9508328+06:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="9" executed="9" passed="6" error="0" failed="3" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod_Gam1" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="ae004654-f06e-0e81-8f4f-99c6aaf4e451">
+      <Execution id="756145d4-871b-421b-8599-f91a9b225057" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_Gam1" />
+    </UnitTest>
+    <UnitTest name="TestMethod_C1" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="94a25bd0-0be0-0608-99c1-74dc0719ddef">
+      <Execution id="b559fbd5-ecdd-4725-bc01-1b843e1cd997" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_C1" />
+    </UnitTest>
+    <UnitTest name="TestMethod_Bet2" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="a34b33d0-38bb-55ee-1a20-6bd391ef3c10">
+      <Execution id="7c278d4a-c475-436f-99c5-f76adbc1d89b" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_Bet2" />
+    </UnitTest>
+    <UnitTest name="TestMethod_Bet1" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="3dea0c79-598c-5dae-22de-a8036e0ce632">
+      <Execution id="9eda6408-043a-4869-9854-47f4db82fd75" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_Bet1" />
+    </UnitTest>
+    <UnitTest name="TestMethod_Gam1_not" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="565bf27c-1e4b-d2b9-b79e-e44f1d70e18d">
+      <Execution id="004a61d9-5db2-44a0-ad36-c0eea0bcc701" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_Gam1_not" />
+    </UnitTest>
+    <UnitTest name="TestMethod_C2" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="7c9ab7e9-482d-a066-3a5b-6caeee08ce5e">
+      <Execution id="6ca533b2-cec6-4880-9b4b-a4deac1f17e4" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_C2" />
+    </UnitTest>
+    <UnitTest name="TestMethod_C1_not" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="5e67210d-9dfb-cc7a-9d1c-20584349f8b4">
+      <Execution id="c9ca8665-6ee8-4512-b596-7f1afe6d1cc2" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_C1_not" />
+    </UnitTest>
+    <UnitTest name="TestMethod_Gam2" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="6683ed8b-5152-04c7-4b1f-af7f15a6e0c8">
+      <Execution id="b62193c5-92b9-4d93-9243-378210ce8b81" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_Gam2" />
+    </UnitTest>
+    <UnitTest name="TestMethod_Bet1_not" storage="c:\users\sys\desktop\учёбка\5\github\unit_test\bin\debug\unit_test.dll" id="95d05851-8e8a-9b28-3a0d-b7f43c13e3f7">
+      <Execution id="257334c0-6a62-48af-bf9b-33a909a89336" />
+      <TestMethod codeBase="C:/Users/Sys/Desktop/Учёбка/5/github/Unit_Test/bin/Debug/Unit_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Test.Unit_Test, Unit_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod_Bet1_not" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3dea0c79-598c-5dae-22de-a8036e0ce632" executionId="9eda6408-043a-4869-9854-47f4db82fd75" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="565bf27c-1e4b-d2b9-b79e-e44f1d70e18d" executionId="004a61d9-5db2-44a0-ad36-c0eea0bcc701" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5e67210d-9dfb-cc7a-9d1c-20584349f8b4" executionId="c9ca8665-6ee8-4512-b596-7f1afe6d1cc2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6683ed8b-5152-04c7-4b1f-af7f15a6e0c8" executionId="b62193c5-92b9-4d93-9243-378210ce8b81" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c9ab7e9-482d-a066-3a5b-6caeee08ce5e" executionId="6ca533b2-cec6-4880-9b4b-a4deac1f17e4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="94a25bd0-0be0-0608-99c1-74dc0719ddef" executionId="b559fbd5-ecdd-4725-bc01-1b843e1cd997" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="95d05851-8e8a-9b28-3a0d-b7f43c13e3f7" executionId="257334c0-6a62-48af-bf9b-33a909a89336" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a34b33d0-38bb-55ee-1a20-6bd391ef3c10" executionId="7c278d4a-c475-436f-99c5-f76adbc1d89b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae004654-f06e-0e81-8f4f-99c6aaf4e451" executionId="756145d4-871b-421b-8599-f91a9b225057" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9eda6408-043a-4869-9854-47f4db82fd75" testId="3dea0c79-598c-5dae-22de-a8036e0ce632" testName="TestMethod_Bet1" computerName="BZZ" duration="00:00:00.0218842" startTime="2014-09-22T01:16:31.4448038+06:00" endTime="2014-09-22T01:16:31.7538215+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9eda6408-043a-4869-9854-47f4db82fd75">
+    </UnitTestResult>
+    <UnitTestResult executionId="004a61d9-5db2-44a0-ad36-c0eea0bcc701" testId="565bf27c-1e4b-d2b9-b79e-e44f1d70e18d" testName="TestMethod_Gam1_not" computerName="BZZ" duration="00:00:00.0533721" startTime="2014-09-22T01:16:31.7578217+06:00" endTime="2014-09-22T01:16:31.8158251+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="004a61d9-5db2-44a0-ad36-c0eea0bcc701">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.AreEqual. Между ожидаемым значением &lt;41&gt; и фактическим значением &lt;53,130102354156&gt; требуется разница не более чем &lt;0,01&gt;. </Message>
+          <StackTrace>   в Unit_Test.Unit_Test.TestMethod_Gam1_not() в C:\Users\Sys\Desktop\Учёбка\5\github\Unit_Test\Unit_Test.cs:строка 127
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c9ca8665-6ee8-4512-b596-7f1afe6d1cc2" testId="5e67210d-9dfb-cc7a-9d1c-20584349f8b4" testName="TestMethod_C1_not" computerName="BZZ" duration="00:00:00.0050743" startTime="2014-09-22T01:16:31.8178252+06:00" endTime="2014-09-22T01:16:31.8348261+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c9ca8665-6ee8-4512-b596-7f1afe6d1cc2">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.AreEqual. Между ожидаемым значением &lt;56&gt; и фактическим значением &lt;5&gt; требуется разница не более чем &lt;0,01&gt;. </Message>
+          <StackTrace>   в Unit_Test.Unit_Test.TestMethod_C1_not() в C:\Users\Sys\Desktop\Учёбка\5\github\Unit_Test\Unit_Test.cs:строка 101
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b62193c5-92b9-4d93-9243-378210ce8b81" testId="6683ed8b-5152-04c7-4b1f-af7f15a6e0c8" testName="TestMethod_Gam2" computerName="BZZ" duration="00:00:00.0003269" startTime="2014-09-22T01:16:31.8378263+06:00" endTime="2014-09-22T01:16:31.8448267+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b62193c5-92b9-4d93-9243-378210ce8b81">
+    </UnitTestResult>
+    <UnitTestResult executionId="6ca533b2-cec6-4880-9b4b-a4deac1f17e4" testId="7c9ab7e9-482d-a066-3a5b-6caeee08ce5e" testName="TestMethod_C2" computerName="BZZ" duration="00:00:00.0003385" startTime="2014-09-22T01:16:31.8478269+06:00" endTime="2014-09-22T01:16:31.8538272+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6ca533b2-cec6-4880-9b4b-a4deac1f17e4">
+    </UnitTestResult>
+    <UnitTestResult executionId="b559fbd5-ecdd-4725-bc01-1b843e1cd997" testId="94a25bd0-0be0-0608-99c1-74dc0719ddef" testName="TestMethod_C1" computerName="BZZ" duration="00:00:00.0003037" startTime="2014-09-22T01:16:31.8568274+06:00" endTime="2014-09-22T01:16:31.8618277+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b559fbd5-ecdd-4725-bc01-1b843e1cd997">
+    </UnitTestResult>
+    <UnitTestResult executionId="257334c0-6a62-48af-bf9b-33a909a89336" testId="95d05851-8e8a-9b28-3a0d-b7f43c13e3f7" testName="TestMethod_Bet1_not" computerName="BZZ" duration="00:00:00.0037429" startTime="2014-09-22T01:16:31.8648279+06:00" endTime="2014-09-22T01:16:31.8738284+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="257334c0-6a62-48af-bf9b-33a909a89336">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.AreEqual. Между ожидаемым значением &lt;14&gt; и фактическим значением &lt;36,869897645844&gt; требуется разница не более чем &lt;0,01&gt;. </Message>
+          <StackTrace>   в Unit_Test.Unit_Test.TestMethod_Bet1_not() в C:\Users\Sys\Desktop\Учёбка\5\github\Unit_Test\Unit_Test.cs:строка 114
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7c278d4a-c475-436f-99c5-f76adbc1d89b" testId="a34b33d0-38bb-55ee-1a20-6bd391ef3c10" testName="TestMethod_Bet2" computerName="BZZ" duration="00:00:00.0002577" startTime="2014-09-22T01:16:31.8758285+06:00" endTime="2014-09-22T01:16:31.8818288+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7c278d4a-c475-436f-99c5-f76adbc1d89b">
+    </UnitTestResult>
+    <UnitTestResult executionId="756145d4-871b-421b-8599-f91a9b225057" testId="ae004654-f06e-0e81-8f4f-99c6aaf4e451" testName="TestMethod_Gam1" computerName="BZZ" duration="00:00:00.0002876" startTime="2014-09-22T01:16:31.8848290+06:00" endTime="2014-09-22T01:16:31.8898293+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="756145d4-871b-421b-8599-f91a9b225057">
+    </UnitTestResult>
+  </Results>
+</TestRun>

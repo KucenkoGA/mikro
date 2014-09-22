@@ -1,0 +1,14 @@
+C:\Users\Sys\Desktop\Учёбка\5\github\Unit_Test\bin\Debug\Unit_Test.dll
+C:\Users\Sys\Desktop\Учёбка\5\github\Unit_Test\bin\Debug\Unit_Test.pdb
+C:\Users\Sys\Desktop\Учёбка\5\github\Unit_Test\bin\Debug\Triangle.exe
+C:\Users\Sys\Desktop\Учёбка\5\github\Unit_Test\bin\Debug\Triangle.pdb
+C:\Users\Sys\Desktop\Учёбка\5\github\Unit_Test\obj\Debug\Unit_Test.csprojResolveAssemblyReference.cache
+C:\Users\Sys\Desktop\Учёбка\5\github\Unit_Test\obj\Debug\Unit_Test.dll
+C:\Users\Sys\Desktop\Учёбка\5\github\Unit_Test\obj\Debug\Unit_Test.pdb
+C:\Users\Sys\Desktop\Учёбка\5\github\Brylova_Kucenko\Unit_Test\bin\Debug\Unit_Test.dll
+C:\Users\Sys\Desktop\Учёбка\5\github\Brylova_Kucenko\Unit_Test\bin\Debug\Unit_Test.pdb
+C:\Users\Sys\Desktop\Учёбка\5\github\Brylova_Kucenko\Unit_Test\bin\Debug\Triangle.exe
+C:\Users\Sys\Desktop\Учёбка\5\github\Brylova_Kucenko\Unit_Test\bin\Debug\Triangle.pdb
+C:\Users\Sys\Desktop\Учёбка\5\github\Brylova_Kucenko\Unit_Test\obj\Debug\Unit_Test.csprojResolveAssemblyReference.cache
+C:\Users\Sys\Desktop\Учёбка\5\github\Brylova_Kucenko\Unit_Test\obj\Debug\Unit_Test.dll
+C:\Users\Sys\Desktop\Учёбка\5\github\Brylova_Kucenko\Unit_Test\obj\Debug\Unit_Test.pdb

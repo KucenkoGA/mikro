@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<TestSettings name="Трассировка и влияние тестирования" id="7a24ca5a-5b3a-4f7a-8ab2-3a589e80b58e" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
-  <Description>Это параметры для трассировки и влияния тестирования</Description>
-  <Execution>
-    <TestTypeSpecific />
-    <AgentRule name="Execution Agents">
-    </AgentRule>
-  </Execution>
-</TestSettings>

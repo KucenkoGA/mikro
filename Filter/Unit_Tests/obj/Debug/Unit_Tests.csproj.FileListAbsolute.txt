@@ -1,0 +1,18 @@
+C:\Documents and Settings\Fadeev\Рабочий стол\works\hells\Univer\Lab2\Filter - с потоками\Unit_Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fadeev\Рабочий стол\works\hells\Univer\Lab2\Filter - с потоками\Unit_Tests\bin\Debug\Unit_Tests.dll
+C:\Documents and Settings\Fadeev\Рабочий стол\works\hells\Univer\Lab2\Filter - с потоками\Unit_Tests\bin\Debug\Unit_Tests.pdb
+C:\Documents and Settings\Fadeev\Рабочий стол\works\hells\Univer\Lab2\Filter - с потоками\Unit_Tests\bin\Debug\Filter.exe
+C:\Documents and Settings\Fadeev\Рабочий стол\works\hells\Univer\Lab2\Filter - с потоками\Unit_Tests\bin\Debug\Filter.pdb
+C:\Documents and Settings\Fadeev\Рабочий стол\works\hells\Univer\Lab2\Filter - с потоками\Unit_Tests\bin\Debug\Filter_Accessor.exe
+C:\Documents and Settings\Fadeev\Рабочий стол\works\hells\Univer\Lab2\Filter - с потоками\Unit_Tests\bin\Debug\Filter_Accessor.pdb
+C:\Documents and Settings\Fadeev\Рабочий стол\works\hells\Univer\Lab2\Filter - с потоками\Unit_Tests\obj\Debug\Unit_Tests.dll
+C:\Documents and Settings\Fadeev\Рабочий стол\works\hells\Univer\Lab2\Filter - с потоками\Unit_Tests\obj\Debug\Unit_Tests.pdb
+C:\Users\Wow\Desktop\Filter\Unit_Tests\bin\Debug\Unit_Tests.dll
+C:\Users\Wow\Desktop\Filter\Unit_Tests\bin\Debug\Unit_Tests.pdb
+C:\Users\Wow\Desktop\Filter\Unit_Tests\bin\Debug\Filter.exe
+C:\Users\Wow\Desktop\Filter\Unit_Tests\bin\Debug\Filter.pdb
+C:\Users\Wow\Desktop\Filter\Unit_Tests\bin\Debug\Filter_Accessor.exe
+C:\Users\Wow\Desktop\Filter\Unit_Tests\bin\Debug\Filter_Accessor.pdb
+C:\Users\Wow\Desktop\Filter\Unit_Tests\obj\Debug\Unit_Tests.csprojResolveAssemblyReference.cache
+C:\Users\Wow\Desktop\Filter\Unit_Tests\obj\Debug\Unit_Tests.dll
+C:\Users\Wow\Desktop\Filter\Unit_Tests\obj\Debug\Unit_Tests.pdb

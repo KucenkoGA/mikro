@@ -1,0 +1,38 @@
+C:\My Work\5 КУРС\МиМ\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\My Work\5 КУРС\МиМ\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\My Work\5 КУРС\МиМ\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\My Work\5 КУРС\МиМ\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\My Work\5 КУРС\МиМ\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\My Work\5 КУРС\МиМ\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\bin\Debug\mscorlib.dll
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\bin\Debug\normidna.nlp
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\bin\Debug\normnfc.nlp
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\bin\Debug\normnfd.nlp
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\bin\Debug\normnfkc.nlp
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\bin\Debug\normnfkd.nlp
+C:\Users\Sys\Desktop\Учёбка\5\github\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\obj\Debug\Lab3.exe
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\bin\Debug\Lab3.exe
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\bin\Debug\mscorlib.dll
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\bin\Debug\normidna.nlp
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\bin\Debug\normnfc.nlp
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\bin\Debug\normnfd.nlp
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\bin\Debug\normnfkc.nlp
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\bin\Debug\normnfkd.nlp
+C:\Users\Sys\Desktop\Учёбка\5\github\Car_Service\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\My Work\5 КУРС\МиМ\Car_Service\Lab3\bin\Debug\Lab3.exe.config
+C:\My Work\5 КУРС\МиМ\Car_Service\Lab3\obj\Debug\Lab3.exe
+C:\My Work\5 КУРС\МиМ\Car_Service\Lab3\obj\Debug\Lab3.pdb
+C:\My Work\5 КУРС\МиМ\Car_Service\Lab3\bin\Debug\Lab3.exe
+C:\My Work\5 КУРС\МиМ\Car_Service\Lab3\bin\Debug\Lab3.pdb
+C:\My Work\5 КУРС\МиМ\Car_Service\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
